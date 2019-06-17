@@ -1,0 +1,58 @@
+{
+  "project_info": {
+    "project_number": "969828594352",
+    "firebase_url": "https://paleoapp-93782.firebaseio.com",
+    "project_id": "paleoapp-93782",
+    "storage_bucket": "paleoapp-93782.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969828594352:android:d097dfccdea4639f",
+        "android_client_info": {
+          "package_name": "com.nappstic.alimentospaleo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969828594352-jfmti514nbhkeq9dhmb9e121d1qrh9l9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nappstic.alimentospaleo",
+            "certificate_hash": "c6ad9c217fd51f2db72a32eefac128e2daf13eb1"
+          }
+        },
+        {
+          "client_id": "969828594352-rpdrjpdg1f2hav36p5hm54r72qm8rjnu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbgGQSqnTpajt8djOy_xTSgCtN28fWCys"
+        },
+        {
+          "current_key": "AIzaSyDBpaETn3Sa7ZjjkSBQd2uIu644PFugEno"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969828594352-rpdrjpdg1f2hav36p5hm54r72qm8rjnu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

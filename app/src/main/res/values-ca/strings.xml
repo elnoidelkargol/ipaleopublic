@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BePaleo</string>
+    <string name="dialogAddQuantity">Afegir %1$s a la llista de la compra</string>
+    <string name="paleo_food">Aliments Paleo</string>
+    <string name="TabataTimer">Rellotge Tabata</string>
+    <string name="CartListHome">Llista de la compra</string>
+    <string name="RecipesHome">Receptes</string>
+    <string name="action_settings">Opcions</string>
+    <string name="shopping_list">Llista de la compra</string>
+    <string name="foodListTabAll">Tots</string>
+    <string name="foodListTabNutrients">Per Nutrients</string>
+    <string name="foodListTabGrupos">Filtre per grups d\'aliments</string>
+    <string name="clear_selected">Esborrar els seleccionats</string>
+    <string name="CartNotLogged">Per accedir a la llista de la compra has d\'estar registrat i / o loguejat.</string>
+    <string name="enter">Accedir</string>
+    <string name="hintSendNewPassword">Escriu el teu email d\'usuari</string>
+    <string name="btnSendNewPassword">Envia\'m la nova paraula de pas</string>
+    <string name="errSendNewPassword">Tens que introduir un email vàlid</string>
+    <string name="errUserNoExist">Aquest correu no correspon a cap usuari</string>
+    <string name="confirmEmailSent">El correu ha estat enviat</string>
+    <string name="errEmptyEmailPassword">El correu no pot estar buit</string>
+    <string name="name">Nom</string>
+    <string name="email">Correu electrònic</string>
+    <string name="password">Paraula de pas</string>
+    <string name="retypePassword">Confirma la paraula de pas</string>
+    <string name="register">Regístra\'t</string>
+    <string name="errRegisterPasswordNotEquals">Les paraules de pas no coincideixen</string>
+    <string name="registerComplete">Registre completat correctament</string>
+    <string name="errRegisterPAsswordShort">La paraula de pas ha de tenir 6 caràcters com a mínim</string>
+    <string name="signInGoogle">Entrar amb Goolge</string>
+    <string name="errBadCredentials">El correo o la paraula de pas no coincideixen amb cap usuari</string>
+    <string name="Favourites">Preferides</string>
+    <string name="font">Font</string>
+    <string name="ClearFillters">Netejar el filtre</string>
+    <string name="RecipesListTabIngredient">Per ingredient principal</string>
+    <string-array name="navigation_drawer_items_array">
+        <item>Aliments Paleo</item>
+        <item>Llista de la compra</item>
+        <item>Table</item>
+    </string-array>
+    <string-array name="mesureUnits">
+        <item>Quilograms</item>
+        <item>Grams</item>
+        <item>Litres</item>
+        <item>Unitats</item>
+        <item>Peces</item>
+        <item>Llaunes</item>
+        <item>Botelles</item>
+    </string-array>
+    <string name="FavouriteRecipeAdded">Recepta afegida correctament</string>
+    <string name="FavouriteRecipeDeleted">Recepta eliminada correctament</string>
+    <string name="errExistingMail">Aquest email ja està registrat.</string>
+    <string name="emptyField">El camp no pot estar buit</string>
+
+</resources>

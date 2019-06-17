@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">BePaleo</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="shopping_list">Shopping List</string>
+    <string name="paleo_food">Paleo Food</string>
+
+    <string-array name="navigation_drawer_items_array">
+        <item>Paleo Food</item>
+        <item>Shopping List</item>
+        <item>Table</item>
+    </string-array>
+
+    <string-array name="mesureUnits">
+        <item>Kilograms</item>
+        <item>Grams</item>
+        <item>Liters</item>
+        <item>Units</item>
+        <item>Pieces</item>
+        <item>Cans</item>
+        <item>Bottles</item>
+    </string-array>
+
+    <!-- STRINGS FoodDetailFragment-->
+    <string name="dialogAddQuantity">Add %1$s to your cart list</string>
+    <string name="TabataTimer">Tabata Timer</string>
+    <string name="CartListHome">Cart List</string>
+    <string name="RecipesHome">Recipes</string>
+    <string name="foodListTabAll">All</string>
+    <string name="foodListTabNutrients">By Nutrients</string>
+    <string name="foodListTabGrupos">Filter By Food Groups</string>
+    <string name="clear_selected">Clear items selected</string>
+    <string name="CartNotLogged">To access your shopping list you must be registered and / or logged in.</string>
+    <string name="enter">Log in</string>
+    <string name="hintSendNewPassword">Enter your user email</string>
+    <string name="btnSendNewPassword">Send me new password</string>
+    <string name="errSendNewPassword">You have to enter a valid email</string>
+    <string name="errUserNoExist">This email doesn\'t correspond to any user</string>
+    <string name="confirmEmailSent">The email has been sent</string>
+    <string name="errEmptyEmailPassword">The email can\'t be empty</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="retypePassword">Confirm your password</string>
+    <string name="register">Sign Up</string>
+    <string name="errRegisterPasswordNotEquals">Passwords do not match</string>
+    <string name="registerComplete">Register completed successfully</string>
+    <string name="errRegisterPAsswordShort">Password must be 6 characters at least</string>
+    <string name="signInGoogle">Sign in with Google</string>
+    <string name="errBadCredentials">The email or password doesn\'t match with any user</string>
+    <string name="Favourites">Favourites</string>
+    <string name="font">Source</string>
+    <string name="ClearFillters">Clear Filter</string>
+    <string name="RecipesListTabIngredient">By main ingredient</string>
+    <string name="FavouriteRecipeAdded">Recipe added correctly</string>
+    <string name="FavouriteRecipeDeleted">Recipe deleted correctly</string>
+    <string name="errExistingMail">The email address is already in use by another account.</string>
+    <string name="emptyField">The field can not be empty</string>
+
+</resources>

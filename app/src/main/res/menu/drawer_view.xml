@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group android:checkableBehavior="single">
+    <item
+        android:id="@+id/foodListFragment"
+        android:icon="@drawable/diet"
+        android:title="@string/paleo_food"/>
+    <item
+        android:id="@+id/chartListFragment"
+        android:icon="@drawable/vegetables_home"
+        android:title="@string/CartListHome"/>
+    <item
+        android:id="@+id/recipesListFragment"
+        android:icon="@drawable/vegetables_home"
+        android:title="@string/RecipesHome"/>
+    <item
+        android:id="@+id/nav_signOut"
+        android:icon="@android:drawable/ic_lock_power_off"
+        android:title="Sign Out" />
+</group>
+</menu>

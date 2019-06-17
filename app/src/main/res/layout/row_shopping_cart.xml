@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:divider="@android:color/holo_red_dark"
+    android:orientation="vertical">
+
+
+    <RelativeLayout
+        android:id="@+id/lnrLytShoppingList"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="10dp"
+        android:paddingLeft="10dp"
+        android:paddingTop="10dp">
+
+        <de.hdodenhof.circleimageview.CircleImageView xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/foodCardCircleView"
+            android:layout_width="46dp"
+            android:layout_height="46dp"
+            android:layout_centerVertical="true"
+            android:src="@drawable/recipes" />
+
+
+        <TextView
+            android:id="@+id/txtViewNameShoppingList"
+            style="@style/foodListText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@id/foodCardCircleView"
+            android:paddingLeft="15dp"
+            android:text="alalalal"
+            android:textSize="15dp" />
+
+        <CheckBox
+            android:id="@+id/chartFoodChecklist"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:focusable="false"
+            android:button="@drawable/custom_checkbox_design" />
+
+
+    </RelativeLayout>
+
+
+</LinearLayout>

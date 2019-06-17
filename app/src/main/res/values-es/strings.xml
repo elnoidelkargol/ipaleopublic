@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- STRINGS FoodDetailFragment-->
+    <string name="dialogAddQuantity">Añadir %1$s a la lista de la compra</string>
+    <string name="paleo_food">Alimentos Paleo</string>
+    <string name="TabataTimer">Reloj Tabata</string>
+    <string name="CartListHome">Lista de la compra</string>
+    <string name="RecipesHome">Recetas</string>
+    <string name="app_name">BePaleo</string>
+    <string name="action_settings">Opciones</string>
+    <string name="shopping_list">Lista de la compra</string>
+    <string name="foodListTabAll">Todos</string>
+    <string name="foodListTabNutrients">Por Nutrientes</string>
+    <string name="foodListTabGrupos">Filtro por grupos de alimentos</string>
+    <string name="clear_selected">Eliminiar los seleccionados</string>
+    <string name="CartNotLogged">Para acceder a tu lista de la compra  debes estar registrado y/o logueado.</string>
+    <string name="enter">Acceder</string>
+    <string name="hintSendNewPassword">Escrive tu email de usuario</string>
+    <string name="btnSendNewPassword">Enviame la nueva contraseña</string>
+    <string name="errSendNewPassword">Tienes que introducir un email válido</string>
+    <string name="errUserNoExist">Este correo no corresponde a ningún usuario</string>
+    <string name="confirmEmailSent">El correo se ha enviado</string>
+    <string name="errEmptyEmailPassword">El correo no puede estar vacío</string>
+    <string name="name">Nombre</string>
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="retypePassword">Confirma la contraseña</string>
+    <string name="register">Regístrate</string>
+    <string name="errRegisterPasswordNotEquals">Las contraseñas no coinciden</string>
+    <string name="registerComplete">Registro completado correctamente</string>
+    <string name="errRegisterPAsswordShort">La contraseña debe tener 6 carácteres como mínimo</string>
+    <string name="signInGoogle">Entra con Google</string>
+    <string name="errBadCredentials">El correo o la contraseña no coinciden con ningún usuario</string>
+    <string name="Favourites">Favoritas</string>
+    <string name="font">Fuente</string>
+    <string name="ClearFillters">Eliminar el filtro</string>
+    <string name="RecipesListTabIngredient">Por ingrediente principal</string>
+    <string-array name="navigation_drawer_items_array">
+        <item>Alimentos Paleo</item>
+        <item>Lista de la compra</item>
+        <item>Table</item>
+    </string-array>
+    <string-array name="mesureUnits">
+        <item>Kilogramos</item>
+        <item>Gramos</item>
+        <item>Litros</item>
+        <item>Unidades</item>
+        <item>Piezas</item>
+        <item>Latas</item>
+        <item>Botellas</item>
+    </string-array>
+    <string name="FavouriteRecipeAdded">Receta añadida correctamente</string>
+    <string name="FavouriteRecipeDeleted">Receta eliminada correctamente</string>
+    <string name="errExistingMail">Este email ya esta registrado.</string>
+    <string name="emptyField">El campo no puede estar vacío</string>
+</resources>

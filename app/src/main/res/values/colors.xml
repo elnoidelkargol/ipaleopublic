@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--<color name="colorPrimary">#52ffc8</color>-->
+    <!--<color name="colorAccent">#ff80ab</color>-->
+    <!--<color name="colorPrimaryDark">#46daab</color>-->
+
+    <color name="colorPrimary">#8b572a</color>
+    <color name="colorSecondary">#be9126</color>
+    <color name="colorAccent">#f1dca9</color>
+    <color name="colorOpositeDark">#549891</color>
+    <color name="colorOpositeLight">#26be84</color>
+    <color name="colorAccent_transparent">#99f1dca9</color>
+    <color name="colorPrimary_transparent">#998b572a</color>
+</resources>

@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\O.MIRO.S\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c41c457f9fefe5a51213c9d65d748206\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e2bbe48deed35056023eed2cdc0cc92e5c7d3617">
+        <dex dex="C:\Users\O.MIRO.S\Documents\ANDROID\paleo_no_google_auth\app\build\intermediates\transforms\preDex\release\40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\O.MIRO.S\.gradle\caches\transforms-1\files-1.1\firebase-ui-auth-3.2.2.aar\b67a3b7d65d4e33b3a99ec69f5608486\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="16e1436cd84b5c734b1698073019ebacc26037c1">
+        <dex dex="C:\Users\O.MIRO.S\Documents\ANDROID\paleo_no_google_auth\app\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\O.MIRO.S\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.8.0.aar\f6f9f2edacec8ba1125477b2d78d86bf\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a7760a45a6c9f425aaa43ef391a8cf28a8bcb4a1">
+        <dex dex="C:\Users\O.MIRO.S\Documents\ANDROID\paleo_no_google_auth\app\build\intermediates\transforms\preDex\release\29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\O.MIRO.S\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.6.1\86b122e640af09b0723e1fa44083c354ba6d9089\glide-3.6.1.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="C:\Users\O.MIRO.S\Documents\ANDROID\paleo_no_google_auth\app\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\O.MIRO.S\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\f12fe746b96a6f3b51757347457548cd\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5ad3911825107d8dd4b017fdecebfd23c08048dd">
+        <dex dex="C:\Users\O.MIRO.S\Documents\ANDROID\paleo_no_google_auth\app\build\intermediates\transforms\preDex\release\30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\O.MIRO.S\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0-beta5.aar\e577ba80abeb9f6724cf629ce26da5ef\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b303826d3a060b0e15c4f05b79f3866360aa7b50">
+        <dex dex="C:\Users\O.MIRO.S\Documents\ANDROID\paleo_no_google_auth\app\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\O.MIRO.S\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\361e1632b6cf3caf315d8c33c995acfb\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ac2ce6027755bcf49442e70597bec0feb9064f68">
+        <dex dex="C:\Users\O.MIRO.S\Documents\ANDROID\paleo_no_google_auth\app\build\intermediates\transforms\preDex\release\35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\O.MIRO.S\.gradle\caches\transforms-1\files-1.1\customtabs-27.0.2.aar\a93c706f8860d133d4b74b0042766810\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cdebcd9e0580b35115f655f8dc8ed7a66a8ef0fc">
+        <dex dex="C:\Users\O.MIRO.S\Documents\ANDROID\paleo_no_google_auth\app\build\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\O.MIRO.S\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\b100c1921757c20282ee0fec96222e18\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e6aeff19a2ce1eb896557be73cb9ceb56f8d1cf3">
+        <dex dex="C:\Users\O.MIRO.S\Documents\ANDROID\paleo_no_google_auth\app\build\intermediates\transforms\preDex\release\26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\O.MIRO.S\.gradle\caches\modules-2\files-2.1\com.android.support.constraint\constraint-layout-solver\1.1.0-beta5\9bc9e32d75211b9c4cea65617c9d6b217c1a264a\constraint-layout-solver-1.1.0-beta5.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9bc9e32d75211b9c4cea65617c9d6b217c1a264a">
+        <dex dex="C:\Users\O.MIRO.S\Documents\ANDROID\paleo_no_google_auth\app\build\intermediates\transforms\preDex\release\45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\O.MIRO.S\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\deec621c91e7ff682e33c97805934dc3\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b432e82447a3af781e927b9ba0bbb9fe2a496d4a">
+        <dex dex="C:\Users\O.MIRO.S\Documents\ANDROID\paleo_no_google_auth\app\build\intermediates\transforms\preDex\release\39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\O.MIRO.S\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.1.0\8007981f7d7540d89cd18471b8e5dcd2b4f99167\common-1.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8007981f7d7540d89cd18471b8e5dcd2b4f99167">
+        <dex dex="C:\Users\O.MIRO.S\Documents\ANDROID\paleo_no_google_auth\app\build\intermediates\transforms\preDex\release\41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\O.MIRO.S\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\9bc6fbb572ad301a5d59ac4c46306c80\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="04cd0cacbedcb338f64665b88bad64d145325fbd">
+        <dex dex="C:\Users\O.MIRO.S\Documents\ANDROID\paleo_no_google_auth\app\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\O.MIRO.S\.gradle\caches\transforms-1\files-1.1\livedata-1.1.0.aar\527f8e2e7612a5faa0d7433ce13ff1c4\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="77e5defcfc16341814061ebf0c129ec788d0e557">
+        <dex dex="C:\Users\O.MIRO.S\Documents\ANDROID\paleo_no_google_auth\app\build\intermediates\transforms\preDex\release\16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\O.MIRO.S\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\fae670a7b326f2fbc6a70ae8e9d958ea\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="71d380aeac037e63bab7bda2ba211777e16a2f42">
+        <dex dex="C:\Users\O.MIRO.S\Documents\ANDROID\paleo_no_google_auth\app\build\intermediates\transforms\preDex\release\18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\O.MIRO.S\.gradle\caches\transforms-1\files-1.1\firebase-database-11.8.0.aar\c71d2dc8227cbbccba56eedac2a3426a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1b982cc8b5ab6f788690238dbe3ac3bb19f88b1a">
+        <dex dex="C:\Users\O.MIRO.S\Documents\ANDROID\paleo_no_google_auth\app\build\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\O.MIRO.S\.gradle\caches\transforms-1\files-1.1\play-services-ads-11.8.0.aar\14f7a8d4417b281c56a4c0d576d00c50\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="aeca0a0ab86831ec59a54723205ce9341ac22d1b">
+        <dex dex="C:\Users\O.MIRO.S\Documents\ANDROID\paleo_no_google_auth\app\build\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\O.MIRO.S\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\67d91aed725d685d549c4bb5975669a2\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c5bc72ad3250d065128d1d7514279be703e57bd0">
+        <dex dex="C:\Users\O.MIRO.S\Documents\ANDROID\paleo_no_google_auth\app\build\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\O.MIRO.S\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.8.0.aar\0bbf4e8c729b6638ae10aae20df99381\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6746a3078625563a9eb381920f34e47ccd6bab87">
+        <dex dex="C:\Users\O.MIRO.S\Documents\ANDROID\paleo_no_google_auth\app\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\O.MIRO.S\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\74190c1bd6d999aa88c845938e23b860\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="122de0d704f76d2bb5cb9db66e00fe90a0a41e78">
+        <dex dex="C:\Users\O.MIRO.S\Documents\ANDROID\paleo_no_google_auth\app\build\intermediates\transforms\preDex\release\24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\O.MIRO.S\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\f3f6c4da2c616b45e65ed210a2d6b256\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9296d6f092fcdba4fafb6ac26546a39babdab46a">
+        <dex dex="C:\Users\O.MIRO.S\Documents\ANDROID\paleo_no_google_auth\app\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\O.MIRO.S\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.1.0\edf3f7bfb84a7521d0599efa3b0113a0ee90f85\common-1.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0edf3f7bfb84a7521d0599efa3b0113a0ee90f85">
+        <dex dex="C:\Users\O.MIRO.S\Documents\ANDROID\paleo_no_google_auth\app\build\intermediates\transforms\preDex\release\42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\O.MIRO.S\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\e1a3462516a79b0c7aeb59bd0aabd51e\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="42c9659c973e311ffdb645ed057e5053e0ab5c78">
+        <dex dex="C:\Users\O.MIRO.S\Documents\ANDROID\paleo_no_google_auth\app\build\intermediates\transforms\preDex\release\22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\O.MIRO.S\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\72a6258570d0eb10aaa64572080427ef\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="264ad23f9752aabecfa41115c52a25a023a08839">
+        <dex dex="C:\Users\O.MIRO.S\Documents\ANDROID\paleo_no_google_auth\app\build\intermediates\transforms\preDex\release\25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\O.MIRO.S\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\27.0.2\b9ef4342c934a1a8b107506273dc8061662a322\support-annotations-27.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0b9ef4342c934a1a8b107506273dc8061662a322">
+        <dex dex="C:\Users\O.MIRO.S\Documents\ANDROID\paleo_no_google_auth\app\build\intermediates\transforms\preDex\release\44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\O.MIRO.S\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\c6339f3396bd5b0df540963bd217f192\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="24cb9bae5fbe94df0f55d87452a291b69a2f22bf">
+        <dex dex="C:\Users\O.MIRO.S\Documents\ANDROID\paleo_no_google_auth\app\build\intermediates\transforms\preDex\release\28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\O.MIRO.S\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\9febc1aea31d39134c6618f560363343\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8a9fd7c97f1d13f97f3b52f9d2e54cd857d5acf9">
+        <dex dex="C:\Users\O.MIRO.S\Documents\ANDROID\paleo_no_google_auth\app\build\intermediates\transforms\preDex\release\17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\O.MIRO.S\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\885523fdeb24b6b5a77c89bc0c00caac\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ed6560f31a6a40b5965f5879d8f2eab1f68def05">
+        <dex dex="C:\Users\O.MIRO.S\Documents\ANDROID\paleo_no_google_auth\app\build\intermediates\transforms\preDex\release\37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\O.MIRO.S\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\5b7f65b56da36e64c8e7511e60e64cfb\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233d88c6f961d2a84758dfe27b7af61318190c7b">
+        <dex dex="C:\Users\O.MIRO.S\Documents\ANDROID\paleo_no_google_auth\app\build\intermediates\transforms\preDex\release\21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\O.MIRO.S\.gradle\caches\transforms-1\files-1.1\extensions-1.1.0.aar\aebd6b48688516e60dc9e128e53cb7e1\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2037412397254e43bf1ae0563586b2315291338">
+        <dex dex="C:\Users\O.MIRO.S\Documents\ANDROID\paleo_no_google_auth\app\build\intermediates\transforms\preDex\release\15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\O.MIRO.S\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\52e4efc887967de9a90d4d83737ce2d5\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a5fa2e3704f51b30b7b47e12a3a2909728799583">
+        <dex dex="C:\Users\O.MIRO.S\Documents\ANDROID\paleo_no_google_auth\app\build\intermediates\transforms\preDex\release\33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\O.MIRO.S\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-11.8.0.aar\7f305c0038a3f74d8760a7e24a444aa3\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0a23c4daa97697118d96f2b09d1dbaf9ea943d8d">
+        <dex dex="C:\Users\O.MIRO.S\Documents\ANDROID\paleo_no_google_auth\app\build\intermediates\transforms\preDex\release\20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\O.MIRO.S\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\c8417618356cc50f60d2a6502ef71f69\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="14bfdbf5594d4d7c320de20831849050788ab1e3">
+        <dex dex="C:\Users\O.MIRO.S\Documents\ANDROID\paleo_no_google_auth\app\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\O.MIRO.S\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\54ad3201e34191414540a595f52b3ee2\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e70a3fed299d84cd868614e11021664d72b8e488">
+        <dex dex="C:\Users\O.MIRO.S\Documents\ANDROID\paleo_no_google_auth\app\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\O.MIRO.S\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\2d124851abfcf2d80cf5b4a641992d72\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bcd0bcdef85b31a656af76e39c0c95ce70800772">
+        <dex dex="C:\Users\O.MIRO.S\Documents\ANDROID\paleo_no_google_auth\app\build\intermediates\transforms\preDex\release\31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\O.MIRO.S\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\be664dd8a4f7db76d950fe065d229271\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="031cc16b7b6e77b3c050134ecab9fa5c2640a069">
+        <dex dex="C:\Users\O.MIRO.S\Documents\ANDROID\paleo_no_google_auth\app\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\O.MIRO.S\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-11.8.0.aar\f611bbdfe6b7104a25948ed25bbf1f79\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fe94ced585bffcf3c7f788a294cc54e6785544ac">
+        <dex dex="C:\Users\O.MIRO.S\Documents\ANDROID\paleo_no_google_auth\app\build\intermediates\transforms\preDex\release\19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\O.MIRO.S\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-11.8.0.aar\b62acf276e9c5df95e60bc80676545b7\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ed04a0ae7198b0d5d0e965d6afdb0fe784dcfbee">
+        <dex dex="C:\Users\O.MIRO.S\Documents\ANDROID\paleo_no_google_auth\app\build\intermediates\transforms\preDex\release\23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\O.MIRO.S\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\7ab9a8853c31a43098824fc8ee56b472\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1fd3ceac7f415975323d52c6c6057db409a907f6">
+        <dex dex="C:\Users\O.MIRO.S\Documents\ANDROID\paleo_no_google_auth\app\build\intermediates\transforms\preDex\release\43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\O.MIRO.S\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\e7d9b11cdf9c9f41d0105afd69fda3aa\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="25c8cb628374f9a2d59ff9e1172753751e9a9f84">
+        <dex dex="C:\Users\O.MIRO.S\Documents\ANDROID\paleo_no_google_auth\app\build\intermediates\transforms\preDex\release\34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\O.MIRO.S\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\760fd2bb271ff147138a4b1921d3e1d4\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d2af2ef4d987d753f2e8ee2d1480ab964d5c7273">
+        <dex dex="C:\Users\O.MIRO.S\Documents\ANDROID\paleo_no_google_auth\app\build\intermediates\transforms\preDex\release\27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\O.MIRO.S\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\f2c7b97073a5013af2b16d15aa71f3c3\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="618f75fe11febf263e3234c7da7dc892232a5608">
+        <dex dex="C:\Users\O.MIRO.S\Documents\ANDROID\paleo_no_google_auth\app\build\intermediates\transforms\preDex\release\32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\O.MIRO.S\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\75a16f73ef45a908fc5fa2a6a811a4ca\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fe3916317a699975bcce0cba2d13fd2d8cf88922">
+        <dex dex="C:\Users\O.MIRO.S\Documents\ANDROID\paleo_no_google_auth\app\build\intermediates\transforms\preDex\release\36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\O.MIRO.S\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\f46de8d0b1a542fd651aa621c2a913d4\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="caa03787689212c10939f308a55a8dc8a3333ed2">
+        <dex dex="C:\Users\O.MIRO.S\Documents\ANDROID\paleo_no_google_auth\app\build\intermediates\transforms\preDex\release\38.jar" />
+    </item>
+
+</items>

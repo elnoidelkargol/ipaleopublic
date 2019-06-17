@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_weight="100"
+    android:orientation="vertical">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="33"
+        android:paddingBottom="2.5dp"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:paddingTop="5dp">
+
+        <ImageView
+            android:id="@+id/imgViewFoodList"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:contentDescription="@string/paleo_food"
+            android:scaleType="centerCrop"
+            app:srcCompat="@drawable/food_list" />
+
+        <RelativeLayout
+            android:id="@+id/relativeLytPaleoFoodHome"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center">
+
+            <ImageView
+                android:id="@+id/imgFoodListIconHome"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                app:srcCompat="@drawable/diet" />
+
+            <TextView
+
+                android:id="@+id/textViewPaleoFoodHome"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/imgFoodListIconHome"
+                android:layout_centerHorizontal="true"
+                android:gravity="left"
+                android:paddingLeft="8dp"
+                android:text="@string/paleo_food"
+                android:textColor="#FFF"
+                android:textSize="25sp" />
+
+        </RelativeLayout>
+
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="33"
+        android:paddingBottom="2.5dp"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:paddingTop="2.5dp">
+
+        <ImageView
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:scaleType="center"
+            app:srcCompat="@drawable/recipes" />
+
+        <RelativeLayout
+            android:id="@+id/relativeLytRecipesHome"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:focusable="true"
+
+            android:gravity="center">
+
+
+            <ImageView
+                android:id="@+id/imgViewRecipesIconHome"
+                style="@style/iconHome"
+                app:srcCompat="@drawable/cooking" />
+
+            <TextView
+                android:id="@+id/txtViewRecipesTxtHome"
+                style="@style/textViewHomeSquare"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/imgViewRecipesIconHome"
+                android:text="@string/RecipesHome" />
+        </RelativeLayout>
+
+    </FrameLayout>
+
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="33"
+        android:paddingBottom="5dp"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:paddingTop="2.5dp">
+
+        <ImageView
+            android:id="@+id/imgViewCart"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:contentDescription="TODO"
+            android:scaleType="centerCrop"
+            app:srcCompat="@drawable/cart" />
+
+        <RelativeLayout
+            android:id="@+id/relativeLytCartHome"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:id="@+id/imgViewCartHomeIcon"
+                style="@style/iconHome"
+                android:contentDescription="TODO"
+                app:srcCompat="@drawable/vegetables_home" />
+
+            <TextView
+                android:id="@+id/txtViewCartListHome"
+                style="@style/textViewHomeSquare"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/imgViewCartHomeIcon"
+                android:text="@string/CartListHome" />
+
+        </RelativeLayout>
+
+    </FrameLayout>
+    <com.google.android.gms.ads.AdView
+        xmlns:ads="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/adView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        ads:adSize="BANNER"
+        ads:adUnitId="ca-app-pub-1663798572028841/1413382469">
+    </com.google.android.gms.ads.AdView>
+</LinearLayout>
